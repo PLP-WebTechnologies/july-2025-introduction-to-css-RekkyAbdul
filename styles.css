@@ -1,0 +1,42 @@
+<style>
+            body {
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                line-height:1.6;
+                background-color: bisque;
+                color: black;
+                margin: 0;
+                padding: 0;
+               }
+
+            header{
+                color: rgb(62, 120, 3);
+                text-align: center;
+                padding: 20px;
+            }
+
+          /* styling  sections with class name content-box*/
+           .content-box {
+                background-color: azure;
+                margin: 20px;
+                padding: 20px;
+                border: 2px;
+                max-width: 1100px;
+                border-radius: 10px;
+            
+            }
+
+             /* styling  h1 element  with id name "empower" */
+            .empower{
+                color: rgb(135, 67, 11);
+                font-weight: 2;
+                font-size: larger;
+                
+            
+            }
+            footer{
+                color: rgb(12, 80, 12);
+                text-align: center;
+                margin: 20px;
+                padding: 20px;
+            }
+        </style>
